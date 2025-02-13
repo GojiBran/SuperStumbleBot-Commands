@@ -1,7 +1,7 @@
 # SuperStumbleBot-Commands
 ### Super Stumble Bot Commands
 
-A comprehensive list of all the commands for **[Super Stumble Bot](https://github.com/GojiBran/SuperStumbleBot)**.
+A "comprehensive" list of "all" the commands for **[Super Stumble Bot](https://github.com/GojiBran/SuperStumbleBot)**.
 
 ---
 
