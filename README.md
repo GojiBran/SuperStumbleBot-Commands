@@ -14,7 +14,6 @@ A comprehensive list of all the commands for **Super Stumble Bot**
 | `.bot`                | Provides links to download the bot and its YouTube-only version.            |
 | `.choose [options]`   | Randomly selects one of the provided options (e.g., `.choose apple, orange`).|
 | `.self`               | Displays the user's information (nickname, handle, username, mod status).   |
-| `.clearUsers`         | Clears all stored user data from `localStorage`.                            |
 
 ---
 
@@ -41,7 +40,6 @@ A comprehensive list of all the commands for **Super Stumble Bot**
 | `.bustin`             | Sends a random "Bustin" message (e.g., "BUSTIN MAKES ME FEEL GOOD!").       |
 | `.dialupdick`         | Sends ASCII art of a "dick" in a humorous way.                              |
 | `.dialupdicklong`     | Sends a longer version of the ASCII art.                                    |
-| `.dialupdickkong`     | Sends an even longer version of the ASCII art.                              |
 | `.egg`                | Plays a Rickroll and displays lyrics.                                       |
 | `.ai`                 | Sends a humorous message about the bot realizing it's alive.                |
 
@@ -95,7 +93,6 @@ A comprehensive list of all the commands for **Super Stumble Bot**
 |-----------------------|-----------------------------------------------------------------------------|
 | `.gojibux`            | Increases the value of GojiBux by a random amount.                          |
 | `.$NARF`              | Displays the negative value of GojiBux.                                     |
-| `.resetGojiBux`       | Resets the GojiBux value to 1.                                              |
 
 ---
 
