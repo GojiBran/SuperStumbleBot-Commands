@@ -23,7 +23,6 @@
 ## **Media Playback**
 - **`.youtube [URL or query]`**: Plays a YouTube video in the chat.
 - **`.play [query]`**: Searches and plays a YouTube video.
-- **`.bacon`**: Plays a 45-minute bacon cooking video.
 - **`.play random song`**: Plays a random song from a predefined list.
 
 ---
@@ -38,12 +37,6 @@
 - **`.dredd`**: Sends a Judge Dredd GIF.
 - **`.meatmeat`**: Sends a random meat-related GIF.
 - **`.bustin`**: Sends a "Bustin" message with random variations.
-- **`.egg`**: Rickrolls with lyrics and a GIF.
-- **`.ai`**: Sends a humorous AI self-awareness message.
-- **`.dialupdick`**: Sends ASCII art of a "spaceshuttle."
-- **`.dialupdicklong`**: Sends a longer version of the ASCII art.
-- **`.dialupdickkong`**: Sends an even longer version of the ASCII art.
-- **`.dialupchode`**: Sends ASCII art of a "space capsule."
 
 ---
 
@@ -61,14 +54,12 @@
 ## **Universal Notes System**
 - **`.note [text]`**: Adds a note to shared storage (up to 6 notes, oldest removed when full).
 - **`.notes`**: Displays all stored notes with a 1-second delay between each.
-- **`.clearNotes`**: Clears all stored notes.
 
 ---
 
-## **GojiBux System**
-- **`.gojibux`**: Increases the value of GojiBux and displays the current worth.
-- **`.$NARF`**: Displays the negative value of GojiBux.
-- **`.resetGojiBux`**: Resets GojiBux to its default value.
+## **GojiBux System (old)**
+- **`.GBX`**: Increases the value of GojiBux and displays the current worth.
+- **`.$NRF`**: Displays the negative value of GojiBux.
 
 ---
 
