@@ -121,73 +121,120 @@
 
 ---
 
-# **GojiBux Economy System** 💰🌿
+# 🌍 **The Ultimate Chat Economy** 💵🌿  
 
-A **virtual economy** for the chat, featuring **GojiBux (GBX)**, **Weed (WGH)**, **trading**, **police busts**, and **bank heists**. Users can **earn, steal, stash, and gamble** their way to riches—or go broke trying.
-
----
-
-## **🏦 GojiBux System**
-**GojiBux (GBX)** is the main currency. Earn it, trade it, or **rob the bank** if you're feeling risky.
-
-### **📜 Commands**
-- **`.mybux`** – Check your GojiBux balance.
-- **`.gojibux`** – Earn a **random amount** of GBX (if the LGH Bank has funds).
-- **`.lgh`** – Check the **LGH Bank balance** (total supply of GojiBux).
-- **`.topbux`** – Show the **richest 10 users**.
-- **`.donatebank [amount]`** – Donate **GBX to the LGH Bank**.
-- **`.resetgojibux`** – Reset your balance to **1 GBX**.
-- **`.steal`** – **Steal** GojiBux from another random user.
-- **`.bankrob`** – Attempt to **rob the LGH Bank** (50% chance to succeed, but risk losing GBX if caught).
-
-### **🔒 Stashing GBX**
-Keep your money **safe from theft** by hiding it in a stash!
-- **`.stash [amount]`** – **Hide** GBX from `.steal`.
-- **`.unstash [amount]`** – **Withdraw** GBX from stash.
-- **`.mystash`** – Check your **stashed balance**.
+## **📜 Lore**  
+In a world where **GojiBux (GBX)** fuels the economy and **weed stashes** dictate power, users engage in a **dynamic trade system** with **fluctuating prices**, **heists**, **police busts**, and **black market deals**.  
+Will you **rise to wealth**, **run an empire**, or **get busted by the cops**? The **choice** is yours! 💰🔥🚔  
 
 ---
 
-## **🌿 Weed Economy**
-Trade **weed (grams)** with other users, or get **busted by the cops**.
+## **🏦 GojiBux Economy** 💵  
 
-### **📜 Commands**
-- **`.myweed`** – Check your **weed stash**.
-- **`.weedprice`** – Check the **current buy/sell prices**.
-- **`.buyweed [amount]`** – Buy **weed** using GojiBux.
-- **`.sellweed [amount]`** – Sell **weed** for GojiBux.
-- **`.topweed`** – Show the **top 10 biggest weed stashes**.
-- **`.donateweed [amount]`** – Donate **weed to WGH Bank**.
-- **`.withdrawweed [amount]`** – Withdraw **weed from WGH Bank**.
-- **`.sendweed [username] [amount]`** – Send **weed** to another user.
+**LGH (Limited Goji Holdings)** manages all **GojiBux** transactions, setting limits to prevent **inflation** and **market collapse**.  
+- **Earn GBX** randomly or through **trade, theft, and banking.**  
+- **Hide money offshore** to **avoid theft.**  
+- **Donate to the bank** or **rob it for a payout.**  
+- **Compete to become the richest in the chatroom!**  
 
-### **🚔 Police Busts**
-- Buying **large amounts** of weed **risks a police bust** (5-10% chance).
-- If caught, you **lose a random amount** of your stash!
+📌 **Features:**  
+✅ **Banking & Offshore Stash** 🏦  
+✅ **Stealing & Robberies** 🦹💰  
+✅ **Donations & Trading** 🔄  
+✅ **Leaderboards & Stats** 📊  
 
----
-
-## **🚬 Joint System**
-Roll and smoke **joints** for fun.
-
-### **📜 Commands**
-- **`.rolljoint [amount]`** – Roll **joints** (uses **1-2g per joint**).
-- **`.myjoints`** – Check how many **joints** you have.
-- **`.smokejoint [amount]`** – Smoke **joints** with **fun messages**.
-- **`.sesh`** – Start a **group smoke session** (randomly burns everyone's stash).
-
----
-
-## **🔥 Additional Commands**
-- **`.economy`** – View the **current state of the economy** (LGH, WGH, and weed prices).
-- **`.self`** – See **your personal stats** (GBX, weed stash, and more).
-- **`.clearGojiBux`** – **Admin-only** command to **reset all balances**.
+### **💰 GojiBux Commands**  
+| Command | Description |
+|---------|------------|
+| `.mybux` | 💵 Check your **GojiBux balance** |
+| `.gojibux` | 📈 **Earn a random** amount of GojiBux |
+| `.lgh` | 🏦 View **LGH Bank's** total holdings |
+| `.donatebank [amount]` | 💰 Donate GojiBux to **LGH Bank** |
+| `.steal` | 🦹 Attempt to **steal** GojiBux from a random user |
+| `.bankrob` | 💥 Try to **rob** LGH Bank (high risk, high reward!) |
+| `.stash [amount]` | 🏝️ **Hide** GojiBux in an offshore account |
+| `.unstash [amount]` | 💰 Withdraw GojiBux from your **offshore stash** |
+| `.mystash` | 🔐 Check your **offshore stash balance** |
+| `.topbux` | 📊 Show **Top 10** richest users |
+| `.topblk` | 🏝️ Show **Top 10** users with the **largest offshore stash** |
+| `.circulation` | 🌎 Show **total circulation** of **GojiBux** & **Weed** |
 
 ---
 
-### **💬 What's Next?**
-- Should we **add a gambling system**? 🎰
-- Introduce **weed strains with different effects**? 🌱
-- Expand **police bust mechanics**?
+## **🌿 Weed & Black Market Economy**  
 
-Let me know! 🚀
+**WGH (Weed Global Holdings)** controls the **underground market**, where **weed flows freely**, but so do **police busts** and **black market deals**.  
+- **Prices change dynamically** 📉📈  
+- **Buy & sell weed** at fluctuating rates  
+- **Roll joints** and **host a sesh** 🔥  
+- **Get busted by police** or **become a cartel kingpin**  
+
+📌 **Features:**  
+✅ **Dynamic Weed Prices** 📊  
+✅ **Buying, Selling, & Donations** 🔄  
+✅ **Police Busts & Weed Raids** 🚔  
+✅ **Rolling Joints & Seshes** 🚬🔥  
+
+### **🌿 Weed Commands**  
+| Command | Description |
+|---------|------------|
+| `.buyweed [amount]` | 🌿 Buy **weed** using GojiBux (price changes dynamically!) |
+| `.sellweed [amount]` | 💰 Sell **weed** for GojiBux (market fluctuates!) |
+| `.weedprice` | 🔥 View **current buy/sell prices** |
+| `.wgh` | 🏦 Check **WGH Bank's** total weed stash |
+| `.donateweed [amount]` | 🌱 Donate weed to **WGH Bank** |
+| `.withdrawweed [amount]` | 🌿 Take **weed** from WGH stash |
+| `.myweed` | 🌿 Check **your weed stash** |
+| `.sendweed [username] [amount]` | 🔄 **Send** weed to another user |
+| `.topweed` | 📊 Show **Top 10** users with the **largest weed stash** |
+| `.stealweed [username]` | 😈 Try to **steal** weed from another user |
+| `.rolljoint [amount]` | 🚬 Roll **joints** using your **weed stash** |
+| `.myjoints` | 🚬 Check your **joint stash** |
+| `.smokejoint [amount]` | 💨 Smoke a **joint** and get high! |
+| `.sesh` | 🔥 Start a **group sesh** (random users contribute weed!) |
+
+---
+
+## **🚔 Police & Crime System**  
+
+💀 **Beware:** The **cops are watching** and **theft has risks!**  
+- **Buying/Selling Weed** has a **10% chance** of a **police bust** 🚔  
+- **Robbing the bank** can go **very wrong** 💥  
+- **Stealing weed from users** can **fail and backfire** 🤡  
+
+📌 **Crime Features:**  
+✅ **Police Raids** 🚨  
+✅ **Risky Heists** 💀  
+✅ **Weed Seizures** 🚔  
+
+---
+
+## **📊 Economy & Statistics**  
+
+Track the entire **chatroom’s economy** with these stats!  
+
+### **🌎 Economy Stats Commands**  
+| Command | Description |
+|---------|------------|
+| `.balance` | 📊 View **your full** economy stats (GBX, weed, joints) |
+| `.circulation` | 🌎 Show total **GBX, weed, and joint circulation** |
+| `.economy` | 🏦 Show **LGH & WGH Bank totals + prices** |
+
+---
+
+## **⚠️ Admin Commands (Reset Economy Data)**  
+| Command | Description |
+|---------|------------|
+| `.*****` | 🚨 **Wipe ALL economy data** (LGH, WGH, balances, stashes, joints) |
+| `.*****` | 💵 Reset all **GojiBux** balances |
+
+---
+
+## **🔥 Summary: Why Join the Economy?**  
+- 💵 **Get Rich:** Earn, trade, stash, and steal GojiBux  
+- 🌿 **Run a Weed Empire:** Buy, sell, roll, and sesh  
+- 🚔 **Survive Crime & Cops:** Don’t get busted!  
+- 🏦 **Become a Legend:** Dominate the leaderboards!  
+
+👑 **Play smart, grind hard, and rise to the top!** 🚀🔥  
+
