@@ -128,3 +128,75 @@
 - **`.floyd`**: Sends random Pink Floyd lyrics.
 - **`.lyrics`**: Sends *Fresh Prince of Bel-Air* lyrics.
 
+---
+
+# **GojiBux Economy System** 💰🌿
+
+A **virtual economy** for the chat, featuring **GojiBux (GBX)**, **Weed (WGH)**, **trading**, **police busts**, and **bank heists**. Users can **earn, steal, stash, and gamble** their way to riches—or go broke trying.
+
+---
+
+## **🏦 GojiBux System**
+**GojiBux (GBX)** is the main currency. Earn it, trade it, or **rob the bank** if you're feeling risky.
+
+### **📜 Commands**
+- **`.mybux`** – Check your GojiBux balance.
+- **`.gojibux`** – Earn a **random amount** of GBX (if the LGH Bank has funds).
+- **`.lgh`** – Check the **LGH Bank balance** (total supply of GojiBux).
+- **`.topbux`** – Show the **richest 10 users**.
+- **`.donatebank [amount]`** – Donate **GBX to the LGH Bank**.
+- **`.resetgojibux`** – Reset your balance to **1 GBX**.
+- **`.steal`** – **Steal** GojiBux from another random user.
+- **`.bankrob`** – Attempt to **rob the LGH Bank** (50% chance to succeed, but risk losing GBX if caught).
+
+### **🔒 Stashing GBX**
+Keep your money **safe from theft** by hiding it in a stash!
+- **`.stash [amount]`** – **Hide** GBX from `.steal`.
+- **`.unstash [amount]`** – **Withdraw** GBX from stash.
+- **`.mystash`** – Check your **stashed balance**.
+
+---
+
+## **🌿 Weed Economy**
+Trade **weed (grams)** with other users, or get **busted by the cops**.
+
+### **📜 Commands**
+- **`.myweed`** – Check your **weed stash**.
+- **`.weedprice`** – Check the **current buy/sell prices**.
+- **`.buyweed [amount]`** – Buy **weed** using GojiBux.
+- **`.sellweed [amount]`** – Sell **weed** for GojiBux.
+- **`.topweed`** – Show the **top 10 biggest weed stashes**.
+- **`.donateweed [amount]`** – Donate **weed to WGH Bank**.
+- **`.withdrawweed [amount]`** – Withdraw **weed from WGH Bank**.
+- **`.sendweed [username] [amount]`** – Send **weed** to another user.
+
+### **🚔 Police Busts**
+- Buying **large amounts** of weed **risks a police bust** (5-10% chance).
+- If caught, you **lose a random amount** of your stash!
+
+---
+
+## **🚬 Joint System**
+Roll and smoke **joints** for fun.
+
+### **📜 Commands**
+- **`.rolljoint [amount]`** – Roll **joints** (uses **1-2g per joint**).
+- **`.myjoints`** – Check how many **joints** you have.
+- **`.smokejoint [amount]`** – Smoke **joints** with **fun messages**.
+- **`.sesh`** – Start a **group smoke session** (randomly burns everyone's stash).
+
+---
+
+## **🔥 Additional Commands**
+- **`.economy`** – View the **current state of the economy** (LGH, WGH, and weed prices).
+- **`.self`** – See **your personal stats** (GBX, weed stash, and more).
+- **`.clearGojiBux`** – **Admin-only** command to **reset all balances**.
+
+---
+
+### **💬 What's Next?**
+- Should we **add a gambling system**? 🎰
+- Introduce **weed strains with different effects**? 🌱
+- Expand **police bust mechanics**?
+
+Let me know! 🚀
