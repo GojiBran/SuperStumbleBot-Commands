@@ -178,6 +178,7 @@ Will you **rise to wealth**, **run an empire**, or **get busted by the cops**? T
 ### **🌿 Weed Commands**  
 | Command | Description |
 |---------|------------|
+| `.getweed` | 🌿 Get some **weed** from **WGH BANK** |
 | `.buyweed [amount]` | 🌿 Buy **weed** using GojiBux (price changes dynamically!) |
 | `.sellweed [amount]` | 💰 Sell **weed** for GojiBux (market fluctuates!) |
 | `.weedprice` | 🔥 View **current buy/sell prices** |
@@ -188,9 +189,9 @@ Will you **rise to wealth**, **run an empire**, or **get busted by the cops**? T
 | `.sendweed [username] [amount]` | 🔄 **Send** weed to another user |
 | `.topweed` | 📊 Show **Top 10** users with the **largest weed stash** |
 | `.stealweed [username]` | 😈 Try to **steal** weed from another user |
-| `.rolljoint [amount]` | 🚬 Roll **joints** using your **weed stash** |
+| `.jointroll [amount]` | 🚬 Roll **joints** using your **weed stash** |
 | `.myjoints` | 🚬 Check your **joint stash** |
-| `.smokejoint [amount]` | 💨 Smoke a **joint** and get high! |
+| `.jointsmoke [amount]` | 💨 Smoke a **joint** and get high! |
 | `.sesh` | 🔥 Start a **group sesh** (random users contribute weed!) |
 
 ---
