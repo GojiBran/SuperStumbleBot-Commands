@@ -88,6 +88,8 @@
 
 # Future Unify
 
+# GojiBux Commands
+
 | Command               | Description                                                                 |
 |-----------------------|-----------------------------------------------------------------------------|
 | `.my gbx`              | Displays the user's GojiBux balance.                                        |
