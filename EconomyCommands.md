@@ -13,6 +13,7 @@
 | `.lgh`                | Displays the total GojiBux stored in the LGH Bank.                          |
 | `.economy`            | Shows total economy stats, including circulation and weed prices.           |
 | `.gamble` / `.bet`    | Gamble GojiBux for a chance to win or lose.                                 |
+| `.adventure`          | Engage in a high-risk, high-reward scenario (5-minute cooldown).            |
 | `.bankrob`            | Attempt to rob the LGH Bank (2-minute cooldown).                            |
 | `.steal`              | Attempt to steal GojiBux from another user.                                 |
 | `.sendbux`            | Send GojiBux to another user.                                               |
@@ -45,7 +46,6 @@
 | `.donateweed`         | Donate weed to the WGH stash.                                               |
 | `.grow`               | Grow a random amount of weed (30-second cooldown).                          |
 | `.harvest`            | Harvest weed from Goji’s Garden (30-second cooldown).                       |
-| `.distribute`         | Distribute 10% of WGH evenly to all users.                                  |
 | `.weedrob`            | Attempt to rob the WGH stash (2-minute cooldown).                           |
 | `.weedheist`          | Attempt a massive weed heist (10-minute cooldown).                          |
 | `.jointroll`          | Roll joints using weed.                                                     |
@@ -57,7 +57,7 @@
 | `.hideweed`           | Hide weed from police busts (60-second cooldown).                           |
 | `.unhideweed`         | Retrieve hidden weed (60-second cooldown).                                  |
 | `.mystashweed`        | Check how much weed is hidden.                                              |
-| `.selljoints`         | Sell joints to an offshore buyer.                                           |
+| `.selljoints`         | Sell joints to an offshore buyer (make profit +economy).                                           |
 
 # Food Commands
 
@@ -78,11 +78,10 @@
 
 | Command               | Description                                                                 |
 |-----------------------|-----------------------------------------------------------------------------|
-| `.dumpall`            | Dump all GojiBux, weed, and spaghetti.                                      |
+| `.dumpall`            | Dump all GojiBux, weed, and spaghetti (be careful).                                      |
 | `.dumpbux`            | Dump all GojiBux.                                                           |
 | `.dumpweed`           | Dump all weed.                                                              |
-| `.dumpspaget`         | Dump all spaghetti.                                                         |
-| `.adventure`          | Engage in a high-risk, high-reward scenario (5-minute cooldown).            |
+| `.dumpspaget`         | Dump all spaghetti (gone forever).                                                         |
 
 
 
