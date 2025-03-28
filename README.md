@@ -226,6 +226,14 @@ Track the entire **chatroom’s economy** with these stats!
 
 ---
 
+## **⚠️ Admin Commands (Reset Economy Data)**  
+| Command | Description |
+|---------|-------------|
+| `.***` | 🚨 **Wipe ALL** economy data (LGH, WGH, stashes, balances) |
+| `.***` | 💵 Reset **all GojiBux balances** |
+
+---
+
 ## **🔥 Summary: Why Join the Economy?**  
 - 💵 **Get Rich:** Earn, trade, stash, and steal GojiBux  
 - 🌿 **Run a Weed Empire:** Buy, sell, roll, and sesh  
