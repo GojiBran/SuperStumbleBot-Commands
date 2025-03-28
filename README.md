@@ -13,17 +13,16 @@
 ## **Personalized Commands**
 - **`.me [message]`**: Sends a message in the format `[nickname] [message]`.
 - **`.my [message]`**: Sends a message in the format `[nickname]'s [message]`.
-- **`.cheers`**: Responds with a personalized message (e.g., "[nickname] is smokin! Cheers! 🌲💨").
-- **`.420`**: Responds with a personalized 420 message (e.g., "[nickname] is smokin! Cheers! 💨 Happy 4:20! 🌲").
+- **`.cheers`**: Responds with a personalized message (e.g., "[nickname] is smokin! Cheers! 🥦💨").
+- **`.420`**: Responds with a personalized 420 message (e.g., "[nickname] is smokin! Cheers! 💨 Happy 4:20! 🥦").
 - **`.self`**: Displays the user's stored information (nickname, username, handle, and mod status).
-- **`.users`**: Lists all stored users with their nicknames and usernames.
 
 ---
 
 ## **Media Playback**
 - **`.youtube [URL or query]`**: Plays a YouTube video in the chat.
 - **`.play [query]`**: Searches and plays a YouTube video.
-- **`.play random song`**: Plays a random song from a predefined list.
+- **`.history`**: Shows last 10 plays.
 
 ---
 
@@ -33,9 +32,9 @@
 - **`.boobs`**: Sends a random boobs GIF.
 - **`.booty`**: Sends a random booty GIF.
 - **`.flamingo`**: Sends a random flamingo GIF.
-- **`.froggy`**: Sends a random frog GIF.
-- **`.dredd`**: Sends a Judge Dredd GIF.
-- **`.meatmeat`**: Sends a random meat-related GIF.
+- **`.froggy`**: Sends froggy's GIF.
+- **`.dredd`**: Sends a Freddie Dredd GIF.
+- **`.meatmeat`**: Sends a random Sabrina Carpenter GIF.
 - **`.bustin`**: Sends a "Bustin" message with random variations.
 
 ---
@@ -46,7 +45,7 @@
 - **`.currency [amount] [from] to [to]`**: Converts currencies (e.g., `.currency 50 usd to dkk`).
 - **`.calc [expression]`**: Performs calculations (e.g., `.calc 2+2`).
 - **`.convert [value] [unit] to [unit]`**: Converts units (e.g., `.convert 10 km to mi`).
-- **`.roll [XdY]`**: Rolls dice (e.g., `.roll 2d6`).
+- **`.dice [XdY]`**: Rolls dice (e.g., `.roll 2d6`).
 - **`.choose [option1, option2, ...]`**: Randomly selects an option from a list.
 
 ---
@@ -54,12 +53,7 @@
 ## **Universal Notes System**
 - **`.note [text]`**: Adds a note to shared storage (up to 6 notes, oldest removed when full).
 - **`.notes`**: Displays all stored notes with a 1-second delay between each.
-
----
-
-## **GojiBux System (old)**
-- **`.GBX`**: Increases the value of GojiBux and displays the current worth.
-- **`.$NRF`**: Displays the negative value of GojiBux.
+- **`.mynotes`**: Displays user's stored notes with a 1-second delay between each.
 
 ---
 
@@ -75,13 +69,13 @@
 - **`im on smoko`**: Responds with "SO LEAVE EM ALONE!"
 - **`lfg`**: Responds with "LET'S FUCKIN GO!!"
 - **`anal`**: Responds with "IT'S TIME FOR AN ASS FUCKIN!"
-- **`deg` / `dag`**: Sends a random GIF.
+- **`deg` / `dag`**: Sends a random dag GIF.
 - **`oh hi mark`**: Sends a GIF from *The Room*.
 - **`drugs got me fucked up`**: Responds with "sluts got me drugged up, fuck."
-- **`hops`**: Sends a hops-related image.
+- **`hops`**: Sends a snarf hops image.
 - **`wb`**: Sends a random welcome back GIF.
 - **`j.r.o.c`**: Sends a random J-Roc GIF.
-- **`java`**: Sends a Java-related GIF.
+- **`java`**: Sends a Java-related😉 GIF.
 - **`fart` / `toot`**: Simulates a fart with sniffing and reactions.
 - **`now this is a story`**: Sends *Fresh Prince of Bel-Air* lyrics.
 
@@ -104,17 +98,17 @@
 - **`.char`**: Sends a cheers GIF.
 - **`.chilidog`**: Sends a chilidog image.
 - **`.claptrick`**: Sends a Claptrick GIF.
-- **`.hippo`**: Sends a hippo GIF.
+- **`.hippo`**: Sends a hippo😉 GIF.
 - **`.lola`**: Sends a Lola image.
 - **`.wizard`**: Sends a wizard GIF.
 - **`.packiedance`**: Sends a Packie dance GIF.
 - **`.vato`**: Sends a vato GIF.
-- **`.escapetime`**: Sends an escape time image.
+- **`.escapetime`**: Sends an escapetime image.
 - **`.baked`**: Sends a baked GIF.
-- **`.beans`**: Sends a beans image.
+- **`.beans`**: Sends a goji beans image.
 - **`.carfart`**: Sends a car fart GIF.
 - **`.spreadem`**: Sends a "spread em" GIF.
-- **`.froggy`**: Sends a frog GIF.
+- **`.froggy`**: Sends froggy's GIF.
 - **`.viper`**: Sends a viper GIF.
 - **`.floyd`**: Sends random Pink Floyd lyrics.
 - **`.lyrics`**: Sends *Fresh Prince of Bel-Air* lyrics.
