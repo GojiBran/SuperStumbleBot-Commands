@@ -121,7 +121,7 @@
 
 ---
 
-# 🌍 **The Ultimate Chat Economy** 💵🌿  
+# 🌍 **The Ultimate Chat Economy** 💵🥦  
 
 ## **📜 Lore**  
 In a world where **GojiBux (GBX)** fuels the economy and **weed stashes** dictate power, users engage in a **dynamic trade system** with **fluctuating prices**, **heists**, **police busts**, and **black market deals**.  
@@ -163,7 +163,7 @@ Will you **rise to wealth**, **run an empire**, or **get busted by the cops**? T
 
 ---
 
-## **🌿 Weed & Black Market Economy**  
+## **🥦 Weed & Black Market Economy**  
 
 **WGH (Weed Global Holdings)** controls the **underground market**, where **weed flows freely**, but so do **police busts** and **black market deals**.  
 - **Prices change dynamically** 📉📈  
@@ -175,25 +175,25 @@ Will you **rise to wealth**, **run an empire**, or **get busted by the cops**? T
 ✅ **Dynamic Weed Prices** 📊  
 ✅ **Buying, Selling, & Donations** ↺  
 ✅ **Police Busts & Weed Raids** 🚔  
-✅ **Rolling Joints & Seshes** 🍬🔥  
+✅ **Rolling Joints & Seshes** 🥖🔥  
 
-### **🌿 Weed Commands**  
+### **🥦 Weed Commands**  
 | Command | Description |
 |---------|-------------|
-| `.getweed` / `.grow` | 🌿 Get some **weed** from **WGH** |
-| `.buyweed [amount]` | 🌿 Buy **weed** with GojiBux (price changes!) |
+| `.getweed` / `.grow` | 🥦 Get some **weed** from **WGH** |
+| `.buyweed [amount]` | 🥦 Buy **weed** with GojiBux (price changes!) |
 | `.sellweed [amount]` | 💰 Sell **weed** for GojiBux (market changes!) |
 | `.priceweed` | 🔥 View **current weed prices** |
 | `.wgh` / `.dispo` | 🏦 View **WGH Bank’s** stash |
 | `.donateweed [amount]` | 🌱 Donate weed to **WGH** |
 | `.stashweed` / `.unstashweed` | 🔒 Hide or retrieve **your weed** |
 | `.mystashweed` | 🔐 Check **your weed stash** |
-| `.myweed` | 🌿 View your **weed balance** |
+| `.myweed` | 🥦 View your **weed balance** |
 | `.giveweed [username] [amount]` | ↺ **Send weed** to another user |
 | `.stealweed [username]` | 😈 Try to **steal weed** from someone |
 | `.topweed` | 📈 Top 3 **weed stashes** |
-| `.jointroll [amount]` | 🍬 Roll **joints** from weed |
-| `.myjoints` | 🍬 Check your **joints stash** |
+| `.jointroll [amount]` | 🥖 Roll **joints** from weed |
+| `.myjoints` | 🥖 Check your **joints stash** |
 | `.jointsmoke [amount]` | 💨 Smoke **your joints** |
 | `.sesh` | 🔥 Start a **group sesh** |
 
@@ -236,7 +236,7 @@ Track the entire **chatroom’s economy** with these stats!
 
 ## **🔥 Summary: Why Join the Economy?**  
 - 💵 **Get Rich:** Earn, trade, stash, and steal GojiBux  
-- 🌿 **Run a Weed Empire:** Buy, sell, roll, and sesh  
+- 🥦 **Run a Weed Empire:** Buy, sell, roll, and sesh  
 - 🚔 **Survive Crime & Cops:** Don’t get busted!  
 - 🏦 **Become a Legend:** Dominate the leaderboards!  
 
