@@ -140,24 +140,26 @@ Will you **rise to wealth**, **run an empire**, or **get busted by the cops**? T
 📌 **Features:**  
 ✅ **Banking & Offshore Stash** 🏦  
 ✅ **Stealing & Robberies** 🦹💰  
-✅ **Donations & Trading** 🔄  
+✅ **Donations & Trading** ↺  
 ✅ **Leaderboards & Stats** 📊  
 
 ### **💰 GojiBux Commands**  
 | Command | Description |
-|---------|------------|
+|---------|-------------|
 | `.mybux` | 💵 Check your **GojiBux balance** |
-| `.gojibux` | 📈 **Earn a random** amount of GojiBux |
-| `.lgh` | 🏦 View **LGH Bank's** total holdings |
+| `.getbux` / `.gojibux` / `.gbx` | 📈 **Earn a random** amount of GojiBux |
+| `.lgh` / `.bank` | 🏦 View **LGH Bank's** total holdings |
 | `.donatebank [amount]` | 💰 Donate GojiBux to **LGH Bank** |
-| `.steal` | 🦹 Attempt to **steal** GojiBux from a random user |
-| `.bankrob` | 💥 Try to **rob** LGH Bank (high risk, high reward!) |
-| `.stash [amount]` | 🏝️ **Hide** GojiBux in an offshore account |
-| `.unstash [amount]` | 💰 Withdraw GojiBux from your **offshore stash** |
-| `.mystash` | 🔐 Check your **offshore stash balance** |
-| `.topbux` | 📊 Show **Top 10** richest users |
-| `.topblk` | 🏝️ Show **Top 10** users with the **largest offshore stash** |
-| `.circulation` | 🌎 Show **total circulation** of **GojiBux** & **Weed** |
+| `.givebux [username] [amount]` | 🧧 **Give GojiBux** to another user |
+| `.stealbux [username]` | 🦹 Attempt to **steal** GojiBux from a user |
+| `.bankrob` / `.brob` | 💥 Try to **rob** LGH Bank (high risk!) |
+| `.bankheist` / `.bheist` | 🚛 **Rob big** for a bigger reward |
+| `.stashbux [amount]` | 🏝️ **Hide** GojiBux in an offshore account |
+| `.unstashbux [amount]` | 💰 Withdraw GojiBux from your **offshore stash** |
+| `.mystashbux` | 🔐 Check your **offshore stash balance** |
+| `.topbux` | 📈 Show **Top 3** richest users |
+| `.topstashbux` / `.topblk` | 🏝️ Show **Top 3** with **largest offshore stash** |
+| `.economy` / `.circulation` | 🌎 Show **total circulation** of **GojiBux** & **Weed** |
 
 ---
 
@@ -171,37 +173,38 @@ Will you **rise to wealth**, **run an empire**, or **get busted by the cops**? T
 
 📌 **Features:**  
 ✅ **Dynamic Weed Prices** 📊  
-✅ **Buying, Selling, & Donations** 🔄  
+✅ **Buying, Selling, & Donations** ↺  
 ✅ **Police Busts & Weed Raids** 🚔  
-✅ **Rolling Joints & Seshes** 🚬🔥  
+✅ **Rolling Joints & Seshes** 🍬🔥  
 
 ### **🌿 Weed Commands**  
 | Command | Description |
-|---------|------------|
-| `.getweed` | 🌿 Get some **weed** from **WGH BANK** |
-| `.buyweed [amount]` | 🌿 Buy **weed** using GojiBux (price changes dynamically!) |
-| `.sellweed [amount]` | 💰 Sell **weed** for GojiBux (market fluctuates!) |
-| `.weedprice` | 🔥 View **current buy/sell prices** |
-| `.wgh` | 🏦 Check **WGH Bank's** total weed stash |
-| `.donateweed [amount]` | 🌱 Donate weed to **WGH Bank** |
-| `.withdrawweed [amount]` | 🌿 Take **weed** from WGH stash |
-| `.myweed` | 🌿 Check **your weed stash** |
-| `.sendweed [username] [amount]` | 🔄 **Send** weed to another user |
-| `.topweed` | 📊 Show **Top 10** users with the **largest weed stash** |
-| `.stealweed [username]` | 😈 Try to **steal** weed from another user |
-| `.jointroll [amount]` | 🚬 Roll **joints** using your **weed stash** |
-| `.myjoints` | 🚬 Check your **joint stash** |
-| `.jointsmoke [amount]` | 💨 Smoke a **joint** and get high! |
-| `.sesh` | 🔥 Start a **group sesh** (random users contribute weed!) |
+|---------|-------------|
+| `.getweed` / `.grow` | 🌿 Get some **weed** from **WGH** |
+| `.buyweed [amount]` | 🌿 Buy **weed** with GojiBux (price changes!) |
+| `.sellweed [amount]` | 💰 Sell **weed** for GojiBux (market changes!) |
+| `.priceweed` | 🔥 View **current weed prices** |
+| `.wgh` / `.dispo` | 🏦 View **WGH Bank’s** stash |
+| `.donateweed [amount]` | 🌱 Donate weed to **WGH** |
+| `.stashweed` / `.unstashweed` | 🔒 Hide or retrieve **your weed** |
+| `.mystashweed` | 🔐 Check **your weed stash** |
+| `.myweed` | 🌿 View your **weed balance** |
+| `.giveweed [username] [amount]` | ↺ **Send weed** to another user |
+| `.stealweed [username]` | 😈 Try to **steal weed** from someone |
+| `.topweed` | 📈 Top 3 **weed stashes** |
+| `.jointroll [amount]` | 🍬 Roll **joints** from weed |
+| `.myjoints` | 🍬 Check your **joints stash** |
+| `.jointsmoke [amount]` | 💨 Smoke **your joints** |
+| `.sesh` | 🔥 Start a **group sesh** |
 
 ---
 
 ## **🚔 Police & Crime System**  
 
 💀 **Beware:** The **cops are watching** and **theft has risks!**  
-- **Buying/Selling Weed** has a **10% chance** of a **police bust** 🚔  
+- **Buying/Selling Weed** has a **chance** of a **police bust** 🚔  
 - **Robbing the bank** can go **very wrong** 💥  
-- **Stealing weed from users** can **fail and backfire** 🤡  
+- **Stealing weed** can **fail and backfire** 🤡  
 
 📌 **Crime Features:**  
 ✅ **Police Raids** 🚨  
@@ -216,18 +219,10 @@ Track the entire **chatroom’s economy** with these stats!
 
 ### **🌎 Economy Stats Commands**  
 | Command | Description |
-|---------|------------|
-| `.balance` | 📊 View **your full** economy stats (GBX, weed, joints) |
-| `.circulation` | 🌎 Show total **GBX, weed, and joint circulation** |
-| `.economy` | 🏦 Show **LGH & WGH Bank totals + prices** |
-
----
-
-## **⚠️ Admin Commands (Reset Economy Data)**  
-| Command | Description |
-|---------|------------|
-| `.*****` | 🚨 **Wipe ALL economy data** (LGH, WGH, balances, stashes, joints) |
-| `.*****` | 💵 Reset all **GojiBux** balances |
+|---------|-------------|
+| `.wallet [username]` / `.balance` / `.bal` | 📈 View **your (or another's)** full stats |
+| `.circulation` / `.economy` | 🌎 View **total GBX, weed, joints, bank stash** |
+| `.stats` | 💾 Total users with **economy accounts** |
 
 ---
 
@@ -237,5 +232,5 @@ Track the entire **chatroom’s economy** with these stats!
 - 🚔 **Survive Crime & Cops:** Don’t get busted!  
 - 🏦 **Become a Legend:** Dominate the leaderboards!  
 
-👑 **Play smart, grind hard, and rise to the top!** 🚀🔥  
+👑 **Play smart, grind hard, and rise to the top!** 🚀🔥
 
